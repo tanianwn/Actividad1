@@ -14,4 +14,6 @@ El procedimiento realizado incluye:
 El código fue implementado en MATLAB utilizando cálculo simbólico, lo que permite obtener expresiones generales de la cinemática diferencial del robot.
 
 Para observar el reporte de los pasos para poder obtener la velocidad lineal y angular ver la wiki del repositorio:
+[WIKI](https://github.com/tanianwn/Actividad1/wiki/Reporte-de-los-pasos-para-poder-obtener-la-velocidad-lineal-y-angular)
+
 
