@@ -11,7 +11,7 @@ El procedimiento realizado incluye:
 5. Cálculo del Jacobiano lineal y angular mediante el método analítico.
 6. Determinación de las velocidades lineal y angular del efector final a partir del Jacobiano y las velocidades articulares.
 
-El código fue implementado en MATLAB lo que permite obtener expresiones generales de la cinemática diferencial del robot.
+El código fue implementado en MATLAB. 
 
 Para observar el reporte de los pasos para poder obtener la velocidad lineal y angular ver la wiki del repositorio:
 [WIKI](https://github.com/tanianwn/Actividad1/wiki/Reporte-de-los-pasos-para-poder-obtener-la-velocidad-lineal-y-angular)
